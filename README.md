@@ -56,6 +56,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [Grounded Action Transformation for Robot Learning in Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/11044)
+  + Josiah Hanna, Peter Stone. AAAI 2017.
++ [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](https://openreview.net/forum?id=SyWvgP5el)
+  + Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine. ICLR 2017.
 + [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
   + Wenhao Yu, Jie Tan, C. Karen Liu, Greg Turk. arXiv 2017.
 + [Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model](https://arxiv.org/abs/1610.03518)

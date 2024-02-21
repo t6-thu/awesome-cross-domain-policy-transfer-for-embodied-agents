@@ -13,6 +13,7 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
 + [Unpaired image-to-image translation using cycle-consistent adversarial networks](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
+
 ++ Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017
 
 ### Cross-Viewpoint Policy Transfer

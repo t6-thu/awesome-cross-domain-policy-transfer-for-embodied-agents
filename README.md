@@ -12,6 +12,12 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
++ [Beyond pick-and-place: Tackling robotic stacking of diverse shapes](https://openreview.net/forum?id=U0Q8CrtBJxJ)
++ Alex X. Lee, Coline Manon Devin, Yuxiang Zhou, Thomas Lampe, Konstantinos Bousmalis, Jost Tobias Springenberg, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, Raia Hadsell, Francesco Nori. CoRL 2021.
++ [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://ml4ad.github.io/files/papers2022/A%20Versatile%20and%20Efficient%20Reinforcement%20Learning%20Approach%20for%20Autonomous%20Driving.pdf)
+  + Guan Wang*, Haoyi Niu*, Desheng Zhu, Jianming Hu, Xianyuan Zhan, Guyue Zhou. NeurIPS ML4AD Workshop, 2022.
++ [Reinforcement Learning with Augmented Data](https://proceedings.neurips.cc/paper/2020/hash/e615c82aba461681ade82da2da38004a-Abstract.html)
+  + Misha Laskin, Kimin Lee, Adam Stooke, Lerrel Pinto, Pieter Abbeel, Aravind Srinivas. NeurIPS 2020.
 + [Rl-cyclegan: Reinforcement learning aware simulation-to-real](https://openaccess.thecvf.com/content_CVPR_2020/html/Rao_RL-CycleGAN_Reinforcement_Learning_Aware_Simulation-to-Real_CVPR_2020_paper.html)
   + Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari. CVPR 2020.
 + [Learning to Drive from Simulation without Real World Labels](https://ieeexplore.ieee.org/abstract/document/8793668?casa_token=BYN1ZXV3-AsAAAAA:7mYBQd6kH4DhjcvUaXTi_buq-f7ctZxh9m48jyPRPpTdNFdSNGJh_rIsnMheQ4Q5C7_Yvs6I1Ps)

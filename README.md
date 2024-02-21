@@ -12,8 +12,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
++ [Domain randomization and pyramid consistency: Simulation-to-real generalization without accessing target domain data](https://openaccess.thecvf.com/content_ICCV_2019/html/Yue_Domain_Randomization_and_Pyramid_Consistency_Simulation-to-Real_Generalization_Without_Accessing_Target_ICCV_2019_paper.html)
+  + Xiangyu Yue, Yang Zhang, Sicheng Zhao, Alberto Sangiovanni-Vincentelli, Kurt Keutzer, Boqing Gong. ICCV 2019.
 + [Meta-sim: Learning to generate synthetic datasets](http://openaccess.thecvf.com/content_ICCV_2019/html/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.html)
-  + Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler. ICCV 2023.
+  + Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler. ICCV 2019.
 + [Driving Policy Transfer via Modularity and Abstraction](https://proceedings.mlr.press/v87/mueller18a.html)
   + Matthias Mueller, Alexey Dosovitskiy, Bernard Ghanem, Vladlen Koltun. CoRL 2018.
 + [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952)

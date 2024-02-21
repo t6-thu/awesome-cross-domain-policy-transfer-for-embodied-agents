@@ -26,3 +26,13 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
 
+## Citations
+If the insights, categorizations, analyses and encapsulations in this survey paper/github collection are helpful with your project development, please cite the following paper:
+```
+@article{niu2024comprehensive,
+  title={A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents},
+  author={Niu, Haoyi and Hu, Jianming and Zhou, Guyue and Zhan, Xianyuan},
+  journal={arXiv preprint arXiv:2402.04580},
+  year={2024}
+}
+```

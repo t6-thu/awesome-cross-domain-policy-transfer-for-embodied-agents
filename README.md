@@ -40,6 +40,18 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Viewpoint Policy Transfer
 **Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.
 
++ [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper_files/paper/2019/hash/8a146f1a3da4700cbf03cdc55e2daae6-Abstract.html)
+  + Pratyusha Sharma, Deepak Pathak, Abhinav Gupta. NeurIPS 2019.
++ [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://m.roboticsproceedings.org/rss14/p02.pdf)
+  + Tianhe Yu, Chelsea Finn, Annie Xie, Sudeep Dasari, Tianhao Zhang, Pieter Abbeel, Sergey Levine. RSS 2018.
++ [Time-Contrastive Networks: Self-Supervised Learning from Video](https://ieeexplore.ieee.org/abstract/document/8462891)
+  + Pierre Sermanet, Corey Lynch, Yevgen Chebotar, Jasmine Hsu, Eric Jang, Stefan Schaal, Sergey Levine. ICRA 2018.
++ [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://ieeexplore.ieee.org/abstract/document/8462901?casa_token=5jtnZqwsMKUAAAAA:tsEKMW90_y4ud1YJM9tC1b4P69aC5aXeAuFobzkDYUegImzRRfYLpVZ97_0qSJoNJAOiLpNRTy8)
+  + YuXuan Liu; Abhishek Gupta; Pieter Abbeel; Sergey Levine. ICRA 2018.
++ [Sim2Real Viewpoint Invariant Visual Servoing by Recurrent Control](https://openaccess.thecvf.com/content_cvpr_2018/html/Sadeghi_Sim2Real_Viewpoint_Invariant_CVPR_2018_paper.html)
+  + Fereshteh Sadeghi, Alexander Toshev, Eric Jang, Sergey Levine. CVPR 2018.
++ [Third Person Imitation Learning](https://openreview.net/forum?id=B16dGcqlx)
+  + Bradly C Stadie, Pieter Abbeel, Ilya Sutskever. ICLR 2017.
 
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.

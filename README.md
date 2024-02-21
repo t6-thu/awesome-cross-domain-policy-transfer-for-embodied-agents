@@ -16,6 +16,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
   + Xinlei Pan, Yurong You, Ziyan Wang, Cewu Lu. BMVC 2017
 + [Unpaired image-to-image translation using cycle-consistent adversarial networks](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
   + Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017
++ [Domain randomization for transferring deep neural networks from simulation to the real world](https://ieeexplore.ieee.org/abstract/document/8202133/?casa_token=qmso3zouBFwAAAAA:xeoNxuL049gCHUAYVT_YdMaykxDq26eRre4i-lGRlUC0gpgxvS0ihflhomT9Pj5DaFyweDl62WI)
+  + Josh Tobin; Rachel Fong; Alex Ray; Jonas Schneider; Wojciech Zaremba; Pieter Abbeel. IROS 2017.
 
 ### Cross-Viewpoint Policy Transfer
 **Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.

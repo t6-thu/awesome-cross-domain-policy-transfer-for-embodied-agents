@@ -2,7 +2,7 @@
 This is a collection of research and review papers for cross-domain policy transfer for embodied agents. Feel free to star and fork. Original paper: [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580).
 
 ## Maintainers
-Haoyi Niu (Tsinghua University), Xianyuan Zhan (Tsinghua University)
+[Haoyi Niu](https://t6-thu.github.io/) (Tsinghua University), [Xianyuan Zhan](http://zhanxianyuan.xyz/) (Tsinghua University)
 
 ## Architecture of the survey
 The main architecture of the survey: domain gap taxonomy, overarching insights on methodologies, and future trends.
@@ -11,6 +11,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ## Approaches categorized by handling different domain gaps
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
+
+
 
 
 ### Cross-Viewpoint Policy Transfer

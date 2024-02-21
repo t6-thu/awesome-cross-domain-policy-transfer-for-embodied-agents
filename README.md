@@ -12,9 +12,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
++ [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952)
+  + Xinlei Pan, Yurong You, Ziyan Wang, Cewu Lu. BMVC 2017
 + [Unpaired image-to-image translation using cycle-consistent adversarial networks](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
-
-++ Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017
+  + Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017
 
 ### Cross-Viewpoint Policy Transfer
 **Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.

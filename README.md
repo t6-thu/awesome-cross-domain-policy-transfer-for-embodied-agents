@@ -2,10 +2,27 @@
 This is a collection of research and review papers for cross-domain policy transfer for embodied agents. Feel free to star and fork. Original paper: [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580).
 
 ## Maintainers
-Haoyi Niu (Tsinghua University)
+Haoyi Niu (Tsinghua University), Xianyuan Zhan (Tsinghua University)
 
-Xianyuan Zhan (Tsinghua University)
-
-## Architecture of the Survey
+## Architecture of the survey
 The main architecture of the survey: domain gap taxonomy, overarching insights on methodologies, and future trends.
 ![main](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents/assets/52534633/971b2e05-fd05-415c-815a-b9c45e4de071)
+
+## Approaches categorized by handling different domain gaps
+### Cross-Appearance Policy Transfer
+**Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
+
+
+### Cross-Viewpoint Policy Transfer
+**Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.
+
+
+### Cross-Dynamics Policy Transfer
+**Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
+
+### Cross-Morphology Policy Transfer
+**Morphology gaps** arise when target embodiments exhibit different morphological designs compared to the source domain agents, e.g., variations in joint types, module shapes, and lengths, which may ultimately lead to a dynamics mismatch. **Morphology gaps** may also encompass variations in the dimensions and semantic meanings of state and action spaces, such as the number of observational sensors, limbs, and end effectors.
+
+### Cross-Multi-Gap Policy Transfer
+In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
+

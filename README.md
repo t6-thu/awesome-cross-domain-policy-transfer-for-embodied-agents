@@ -12,13 +12,14 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
-
++ [Meta-sim: Learning to generate synthetic datasets](http://openaccess.thecvf.com/content_ICCV_2019/html/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.html)
+  + Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler. ICCV 2023.
 + [Driving Policy Transfer via Modularity and Abstraction](https://proceedings.mlr.press/v87/mueller18a.html)
   + Matthias Mueller, Alexey Dosovitskiy, Bernard Ghanem, Vladlen Koltun. CoRL 2018.
 + [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952)
-  + Xinlei Pan, Yurong You, Ziyan Wang, Cewu Lu. BMVC 2017
+  + Xinlei Pan, Yurong You, Ziyan Wang, Cewu Lu. BMVC 2017.
 + [Unpaired image-to-image translation using cycle-consistent adversarial networks](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
-  + Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017
+  + Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros. ICCV 2017.
 + [Domain randomization for transferring deep neural networks from simulation to the real world](https://ieeexplore.ieee.org/abstract/document/8202133/?casa_token=qmso3zouBFwAAAAA:xeoNxuL049gCHUAYVT_YdMaykxDq26eRre4i-lGRlUC0gpgxvS0ihflhomT9Pj5DaFyweDl62WI)
   + Josh Tobin; Rachel Fong; Alex Ray; Jonas Schneider; Wojciech Zaremba; Pieter Abbeel. IROS 2017.
 

@@ -2,7 +2,7 @@
 This is a collection of research and review papers for cross-domain policy transfer for embodied agents. Feel free to star and fork. Original paper: [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580).
 
 ## Maintainers
-[Haoyi Niu](https://t6-thu.github.io/) (Tsinghua University), [Xianyuan Zhan](http://zhanxianyuan.xyz/) (Tsinghua University)
+[Haoyi Niu](https://t6-thu.github.io/), Jianming Hu, Guyue Zhou, [Xianyuan Zhan](http://zhanxianyuan.xyz/). (Tsinghua University)
 
 ## Architecture of the survey
 The main architecture of the survey: domain gap taxonomy, overarching insights on methodologies, and future trends.

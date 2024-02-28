@@ -66,6 +66,7 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
   + Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor Blackwell, Joshua Tobin, Pieter Abbeel, Wojciech Zaremba. arXiv, 2016.
 + [Physically consistent state estimation and system identification for contacts](https://ieeexplore.ieee.org/abstract/document/7363481?casa_token=qJHU24ygihsAAAAA:V2eUbCLISEFHfX9NMCmIac9IdeySVQB072RyOyYJkAJQB1Dcaju234-xdmfKBi_xoI3_8rrQMNs)
   + Svetoslav Kolev, Emanuel Todorov. Humanoids 2015.
+# In Progress...
 
 ### Cross-Morphology Policy Transfer
 **Morphology gaps** arise when target embodiments exhibit different morphological designs compared to the source domain agents, e.g., variations in joint types, module shapes, and lengths, which may ultimately lead to a dynamics mismatch. **Morphology gaps** may also encompass variations in the dimensions and semantic meanings of state and action spaces, such as the number of observational sensors, limbs, and end effectors.

@@ -56,6 +56,12 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [Learning dexterous in-hand manipulation](https://dl.acm.org/doi/abs/10.1177/0278364919887447)
+  + Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba. IJRR, 2020.
++ [BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators](https://roboticsproceedings.org/rss15/p29.pdf)
+  + Fabio Ramos, Rafael Carvalhaes Possas, Dieter Fox. RSS 2019.
++ [How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?](https://arxiv.org/abs/1903.11774)
+  + Quan Vuong, Sharad Vikram, Hao Su, Sicun Gao, Henrik I. Christensen. Arxiv, 2019.
 + [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://ieeexplore.ieee.org/abstract/document/8460528?casa_token=MGinWlLWo_4AAAAA:ADFVzywGfFm2JUEfBOgkRx-Bg4U--s133C--1AhRrLn_e2sIG5B02BmFcvWlzZpD76XQA8ewLao)
   + Xue Bin Peng; Marcin Andrychowicz; Wojciech Zaremba; Pieter Abbeel. ICRA 2018.
 + [Grounded Action Transformation for Robot Learning in Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/11044)

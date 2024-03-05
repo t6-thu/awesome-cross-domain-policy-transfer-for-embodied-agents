@@ -56,6 +56,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch](https://proceedings.neurips.cc/paper_files/paper/2020/hash/28f248e9279ac845995c4e9f8af35c2b-Abstract.html)
+  + Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone. NeurIPS 2020.
++ [Active Domain Randomization](https://proceedings.mlr.press/v100/mehta20a.html)
+  + Bhairav Mehta, Manfred Diaz, Florian Golemo, Christopher J. Pal, Liam Paull. CoRL 2020.
 + [Learning dexterous in-hand manipulation](https://dl.acm.org/doi/abs/10.1177/0278364919887447)
   + Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba. IJRR, 2020.
 + [BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators](https://roboticsproceedings.org/rss15/p29.pdf)

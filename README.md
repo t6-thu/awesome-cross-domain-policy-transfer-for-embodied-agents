@@ -56,7 +56,24 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
-
++ [Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States](https://proceedings.mlr.press/v229/wang23e.html)
+  + Zidan Wang, Takeru Oba, Takuma Yoneda, Rui Shen, Matthew Walter, Bradly C. Stadie. CoRL 2023.
++ [State Regularized Policy Optimization on Data with Dynamics Shift](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67dd6a41bf9539cffc0fc0165e4d0616-Abstract-Conference.html)
+  + Zhenghai Xue, Qingpeng Cai, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, Bo An. NeurIPS 2023.
++ [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e8ad87f1076fb0f75d89a45828f186b0-Abstract-Conference.html)
+  + Kang Xu, Chenjia Bai, Xiaoteng Ma, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. NeurIPS 2023.
++ [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)
+  + Haoyi Niu, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu, Xianyuan Zhan. NeurIPS 2022.
++ [DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning](https://openreview.net/forum?id=9SDQB3b68K)
+  + Jinxin Liu, Zhang Hongyin, Donglin Wang. ICLR 2022.
++ [Learning Feasibility to Imitate Demonstrators with Different Dynamics](https://openreview.net/forum?id=MWtinPDqfZg)
+  + Zhangjie Cao, Yilun Hao, Mengxi Li, Dorsa Sadigh. CoRL 2021.
++ [Learning From Imperfect Demonstrations From Agents With Varying Dynamics](https://ieeexplore.ieee.org/abstract/document/9387082?casa_token=96ay11JE8AQAAAAA:OikH6HMlley7dTKVP2c4RFhx4hXYITArQWXEs-MxcQt09BmHS2Le1GvtVDUKyRjI-ziPlVmZuVQ)
+  + Zhangjie Cao, Dorsa Sadigh. RAL 2021.
++ [Auto-Tuned Sim-to-Real Transfer](https://ieeexplore.ieee.org/abstract/document/9562091?casa_token=9bMGJX4uY1wAAAAA:UOSLegeIaF16yzJSH8H4k9Yt8rnlRey6YvfQbEm0XtLPa9Q0UPsAasAz4Zx6kUVP6JvHCBQ1LIE)
+  + Yuqing Du; Olivia Watkins; Trevor Darrell; Pieter Abbeel; Deepak Pathak. ICRA 2021.
++ [Data-Efficient Domain Randomization With Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/9327467?casa_token=plkXNJrD6KwAAAAA:WnG6p31T3vBNxS9t4uVPUgJC3aLIZIXY3DZ-6dkH53X_w2cAbX8WDddVekYz0i1Hv2xmazZJVZk)
+  + Fabio Muratore; Christian Eilers; Michael Gienger; Jan Peters. RAL 2021. 
 + [State-Only Imitation Learning for Dexterous Manipulation](https://ieeexplore.ieee.org/abstract/document/9636557?casa_token=qBnOIzaMocEAAAAA:xgIy7mcMAl8RxPicPGvXzhAsJTDQX1LA0EqQacvHEo2Mabs_69i2rTfGxDV86ROn-Y8vBIn0beM)
   + Ilija Radosavovic; Xiaolong Wang; Lerrel Pinto; Jitendra Malik. IROS 2021.
 + [Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers](https://openreview.net/forum?id=eqBwg3AcIAK)

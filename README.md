@@ -110,10 +110,26 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
   + Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor Blackwell, Joshua Tobin, Pieter Abbeel, Wojciech Zaremba. arXiv, 2016.
 + [Physically consistent state estimation and system identification for contacts](https://ieeexplore.ieee.org/abstract/document/7363481?casa_token=qJHU24ygihsAAAAA:V2eUbCLISEFHfX9NMCmIac9IdeySVQB072RyOyYJkAJQB1Dcaju234-xdmfKBi_xoI3_8rrQMNs)
   + Svetoslav Kolev, Emanuel Todorov. Humanoids 2015.
-# In Progress...
 
 ### Cross-Morphology Policy Transfer
 **Morphology gaps** arise when target embodiments exhibit different morphological designs compared to the source domain agents, e.g., variations in joint types, module shapes, and lengths, which may ultimately lead to a dynamics mismatch. **Morphology gaps** may also encompass variations in the dimensions and semantic meanings of state and action spaces, such as the number of observational sensors, limbs, and end effectors.
+
++ [Polybot: Training One Policy Across Robots While Embracing Variability](https://proceedings.mlr.press/v229/yang23c.html)
+  + Jonathan Heewon Yang, Dorsa Sadigh, Chelsea Finn. CoRL 2023.
++ [Learning Robot Manipulation from Cross-Morphology Demonstration](https://openreview.net/forum?id=Opmqtk_GvYL)
+  + Gautam Salhotra, I-Chun Arthur Liu, Gaurav S. Sukhatme. CoRL 2023.
++ [Multi-embodiment Legged Robot Control as a Sequence Modeling Problem](https://ieeexplore.ieee.org/abstract/document/10161034?casa_token=s1ptQ-eOeMQAAAAA:e8RcKVLTEKiTEyd8tYExmv2WsKc6SW7kH0ngu55f_63J3FerXMgYy3wHbq6qC1xG_d2RxHTX43c)
+  + Chen Yu; Weinan Zhang; Hang Lai; Zheng Tian; Laurent Kneip; Jun Wang. ICRA 2023.
++ [MetaMorph: Learning Universal Controllers with Transformers](https://openreview.net/forum?id=Opmqtk_GvYL)
+  + Agrim Gupta, Linxi Fan, Surya Ganguli, Li Fei-Fei. ICLR 2022.
++ [Embodied intelligence via learning and evolution](https://www.nature.com/articles/s41467-021-25874-z)
+  + Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. Nature Communications, 2021.
++ [Task-agnostic morphology evolution](https://openreview.net/forum?id=CGQ6ENUMX6)
+  + Donald J Hejna III, Pieter Abbeel, Lerrel Pinto. ICLR 2021.
++ [Hierarchically Decoupled Imitation For Morphological Transfer](http://proceedings.mlr.press/v119/hejna20a.html)
+  + Donald Hejna, Lerrel Pinto, Pieter Abbeel. ICML 2020. 
+
+# In Progress...
 
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 

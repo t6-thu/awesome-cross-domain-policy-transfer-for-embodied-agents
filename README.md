@@ -56,12 +56,16 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://ieeexplore.ieee.org/abstract/document/8460528?casa_token=MGinWlLWo_4AAAAA:ADFVzywGfFm2JUEfBOgkRx-Bg4U--s133C--1AhRrLn_e2sIG5B02BmFcvWlzZpD76XQA8ewLao)
+  + Xue Bin Peng; Marcin Andrychowicz; Wojciech Zaremba; Pieter Abbeel. ICRA 2018.
 + [Grounded Action Transformation for Robot Learning in Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/11044)
   + Josiah Hanna, Peter Stone. AAAI 2017.
 + [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](https://openreview.net/forum?id=SyWvgP5el)
   + Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine. ICLR 2017.
 + [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
   + Wenhao Yu, Jie Tan, C. Karen Liu, Greg Turk. arXiv 2017.
++ [Simulation-based design of dynamic controllers for humanoid balancing](https://ieeexplore.ieee.org/abstract/document/7759424?casa_token=gYQxUej--YsAAAAA:UKyns0UxIU1jLYWDO7Gx_T0YUOQmJTik5EltC6c50RoSdbmV21KE_NAAzFV08sIVkO0xRjEM-fM)
+  + Jie Tan; Zhaoming Xie; Byron Boots; C. Karen Liu. IROS 2016.
 + [Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model](https://arxiv.org/abs/1610.03518)
   + Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor Blackwell, Joshua Tobin, Pieter Abbeel, Wojciech Zaremba. arXiv, 2016.
 + [Physically consistent state estimation and system identification for contacts](https://ieeexplore.ieee.org/abstract/document/7363481?casa_token=qJHU24ygihsAAAAA:V2eUbCLISEFHfX9NMCmIac9IdeySVQB072RyOyYJkAJQB1Dcaju234-xdmfKBi_xoI3_8rrQMNs)

@@ -56,10 +56,21 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
+
++ [State-Only Imitation Learning for Dexterous Manipulation](https://ieeexplore.ieee.org/abstract/document/9636557?casa_token=qBnOIzaMocEAAAAA:xgIy7mcMAl8RxPicPGvXzhAsJTDQX1LA0EqQacvHEo2Mabs_69i2rTfGxDV86ROn-Y8vBIn0beM)
+  + Ilija Radosavovic; Xiaolong Wang; Lerrel Pinto; Jitendra Malik. IROS 2021.
++ [Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers](https://openreview.net/forum?id=eqBwg3AcIAK)
+  + Benjamin Eysenbach, Shreyas Chaudhari, Swapnil Asawa, Sergey Levine, Ruslan Salakhutdinov. ICLR 2021.
 + [An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch](https://proceedings.neurips.cc/paper_files/paper/2020/hash/28f248e9279ac845995c4e9f8af35c2b-Abstract.html)
   + Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone. NeurIPS 2020.
++ [Offline Imitation Learning with a Misspecified Simulator](https://proceedings.neurips.cc/paper/2020/hash/60cb558c40e4f18479664069d9642d5a-Abstract.html)
+  + Shengyi Jiang, Jingcheng Pang, Yang Yu. NeurIPS 2020.
 + [Active Domain Randomization](https://proceedings.mlr.press/v100/mehta20a.html)
   + Bhairav Mehta, Manfred Diaz, Florian Golemo, Christopher J. Pal, Liam Paull. CoRL 2020.
++ [State-only Imitation with Transition Dynamics Mismatch](https://openreview.net/forum?id=HJgLLyrYwB)
+  + Tanmay Gangwani, Jian Peng. ICLR 2020.
++ [State Alignment-based Imitation Learning](https://openreview.net/forum?id=rylrdxHFDr)
+  + Fangchen Liu, Zhan Ling, Tongzhou Mu, Hao Su. ICLR 2020.
 + [Learning dexterous in-hand manipulation](https://dl.acm.org/doi/abs/10.1177/0278364919887447)
   + Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba. IJRR, 2020.
 + [BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators](https://roboticsproceedings.org/rss15/p29.pdf)

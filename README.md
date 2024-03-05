@@ -56,6 +56,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
+  + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. DMLR@ICLR 2024.
 + [Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States](https://proceedings.mlr.press/v229/wang23e.html)
   + Zidan Wang, Takeru Oba, Takuma Yoneda, Rui Shen, Matthew Walter, Bradly C. Stadie. CoRL 2023.
 + [State Regularized Policy Optimization on Data with Dynamics Shift](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67dd6a41bf9539cffc0fc0165e4d0616-Abstract-Conference.html)

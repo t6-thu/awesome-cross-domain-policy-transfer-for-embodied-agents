@@ -23,7 +23,7 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 + [Learning to Drive from Simulation without Real World Labels](https://ieeexplore.ieee.org/abstract/document/8793668?casa_token=BYN1ZXV3-AsAAAAA:7mYBQd6kH4DhjcvUaXTi_buq-f7ctZxh9m48jyPRPpTdNFdSNGJh_rIsnMheQ4Q5C7_Yvs6I1Ps)
   + Alex Bewley; Jessica Rigley; Yuxuan Liu; Jeffrey Hawke; Richard Shen; Vinh-Dieu Lam; Alex Kendall. ICRA 2019.
 + [Vr-goggles for robots: Real-to-sim domain adaptation for visual control](https://ieeexplore.ieee.org/abstract/document/8620258/?casa_token=SkhJ7BaIahQAAAAA:cpFAW1Sumh1w8qp_a--BWZi8xDpSoW9HV7oyW8ZEZ1pjfGXmlXNJrq3nv9eR8wfzYFIiascGG-s)
-+ Jingwei Zhang, Lei Tai, Peng Yun, Yufeng Xiong, Ming Liu, Joschka Boedecker, Wolfram Burgard. RAL 2019.
+  + Jingwei Zhang, Lei Tai, Peng Yun, Yufeng Xiong, Ming Liu, Joschka Boedecker, Wolfram Burgard. RAL 2019.
 + [Domain randomization and pyramid consistency: Simulation-to-real generalization without accessing target domain data](https://openaccess.thecvf.com/content_ICCV_2019/html/Yue_Domain_Randomization_and_Pyramid_Consistency_Simulation-to-Real_Generalization_Without_Accessing_Target_ICCV_2019_paper.html)
   + Xiangyu Yue, Yang Zhang, Sicheng Zhao, Alberto Sangiovanni-Vincentelli, Kurt Keutzer, Boqing Gong. ICCV 2019.
 + [Meta-sim: Learning to generate synthetic datasets](http://openaccess.thecvf.com/content_ICCV_2019/html/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.html)

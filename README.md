@@ -114,6 +114,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Morphology Policy Transfer
 **Morphology gaps** arise when target embodiments exhibit different morphological designs compared to the source domain agents, e.g., variations in joint types, module shapes, and lengths, which may ultimately lead to a dynamics mismatch. **Morphology gaps** may also encompass variations in the dimensions and semantic meanings of state and action spaces, such as the number of observational sensors, limbs, and end effectors.
 
++ [Cross Domain Policy Transfer with Effect Cycle-Consistency](https://arxiv.org/pdf/2403.02018.pdf)
+  + Ruiqi Zhu, Tianhong Dai, Oya Celiktutan. ICRA 2024.
 + [Polybot: Training One Policy Across Robots While Embracing Variability](https://proceedings.mlr.press/v229/yang23c.html)
   + Jonathan Heewon Yang, Dorsa Sadigh, Chelsea Finn. CoRL 2023.
 + [Learning Robot Manipulation from Cross-Morphology Demonstration](https://openreview.net/forum?id=Opmqtk_GvYL)

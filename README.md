@@ -129,7 +129,12 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 + [Task-agnostic morphology evolution](https://openreview.net/forum?id=CGQ6ENUMX6)
   + Donald J Hejna III, Pieter Abbeel, Lerrel Pinto. ICLR 2021.
 + [Hierarchically Decoupled Imitation For Morphological Transfer](http://proceedings.mlr.press/v119/hejna20a.html)
-  + Donald Hejna, Lerrel Pinto, Pieter Abbeel. ICML 2020. 
+  + Donald Hejna, Lerrel Pinto, Pieter Abbeel. ICML 2020.
+
+### Cross-Modality Policy Transfer
+
++ [Cross-Modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/68264bdb65b97eeae6788aa3348e553c-Abstract.html)
+  + Xiong-Hui Chen, Shengyi Jiang, Feng Xu, Zongzhang Zhang, Yang Yu. NeurIPS 2021.
 
 # In Progress...
 

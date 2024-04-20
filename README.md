@@ -1,5 +1,5 @@
 # awesome-cross-domain-policy-transfer-for-embodied-agents ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-This is a collection of research and review papers for cross-domain policy transfer for embodied agents. Feel free to star and fork. Original paper: [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580).
+This is a collection of research and review papers for cross-domain policy transfer for embodied agents. Feel free to star and fork. Original paper: [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580), IJCAI 2024.
 
 ## Maintainers
 [Haoyi Niu](https://t6-thu.github.io/), Jianming Hu, Guyue Zhou, [Xianyuan Zhan](http://zhanxianyuan.xyz/). (Tsinghua University)

@@ -144,10 +144,11 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
 ## Citations
 If the insights, categorizations, analyses and encapsulations in this survey paper/github collection are helpful with your project development, please cite the following paper:
 ```
-@article{niu2024comprehensive,
-  title={A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents},
-  author={Niu, Haoyi and Hu, Jianming and Zhou, Guyue and Zhan, Xianyuan},
-  journal={arXiv preprint arXiv:2402.04580},
-  year={2024}
+@inproceedings{
+    niu2024comprehensive,
+    title={A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents},
+    author={Niu, Haoyi and Hu, Jianming and Zhou, Guyue and Zhan, Xianyuan},
+    booktitle={International Joint Conference on Artificial Intelligence},
+    year={2024}
 }
 ```

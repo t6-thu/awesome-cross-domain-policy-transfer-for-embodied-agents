@@ -135,12 +135,12 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 
 ### Cross-Modality Policy Transfer
 
++ [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
+  + Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine. RSS 2024.
++ [Weakly supervised correspondence learning](https://ieeexplore.ieee.org/abstract/document/9811729/)
+  + Zihan Wang; Zhangjie Cao; Yilun Hao; Dorsa Sadigh. ICRA 2022.
 + [Cross-Modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/68264bdb65b97eeae6788aa3348e553c-Abstract.html)
   + Xiong-Hui Chen, Shengyi Jiang, Feng Xu, Zongzhang Zhang, Yang Yu. NeurIPS 2021.
-+ [Weakly supervised correspondence learning](https://ieeexplore.ieee.org/abstract/document/9811729/)
-  + Zihan Wang; Zhangjie Cao; Yilun Hao; Dorsa Sadigh
-+ [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
-  + Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
 
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 

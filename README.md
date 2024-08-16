@@ -137,11 +137,20 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 
 + [Cross-Modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/68264bdb65b97eeae6788aa3348e553c-Abstract.html)
   + Xiong-Hui Chen, Shengyi Jiang, Feng Xu, Zongzhang Zhang, Yang Yu. NeurIPS 2021.
-
-# In Progress...
++ [Weakly supervised correspondence learning](https://ieeexplore.ieee.org/abstract/document/9811729/)
+  + Zihan Wang; Zhangjie Cao; Yilun Hao; Dorsa Sadigh
++ [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
+  + Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
 
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
+
++ [Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting](https://robot-mirage.github.io/)
+  + Lawrence Yunliang Chen, Kush Hari, Karthik Dharmarajan, Chenfeng Xu, Quan Vuong, Ken Goldberg. RSS 2024.
++ [Pushing the limits of cross-embodiment learning for manipulation and navigation](http://extreme-cross-embodiment.github.io/)
+  + Jonathan Yang, Catherine Glossop, Arjun Bhorkar, Dhruv Shah, Quan Vuong, Chelsea Finn, Dorsa Sadigh, Sergey Levine. RSS 2024.
+
+# In Progress
 
 ## Citations
 If the insights, categorizations, analyses and encapsulations in this survey paper/github collection are helpful with your project development, please cite the following paper:

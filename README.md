@@ -135,6 +135,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 
 ### Cross-Modality Policy Transfer
 
++ [Action Space Design in Reinforcement Learning for Robot Motor Skills](https://openreview.net/forum?id=GGuNkjQSrk)
+  + Julian Eßer, Gabriel B. Margolis, Oliver Urbann, Sören Kerner, Pulkit Agrawal. CoRL 2024.
 + [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
   + Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine. RSS 2024.
 + [Weakly supervised correspondence learning](https://ieeexplore.ieee.org/abstract/document/9811729/)

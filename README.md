@@ -12,6 +12,12 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Appearance Policy Transfer
 **Appearance gaps** arise when observations in the source domain (e.g., simulations) exhibit differences in colors, background objects, illumination conditions, and rendering textures as compared to the target domain (e.g., reality), such as variations in coarse and fine rendering or high and low resolutions.
 
++ [Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation](https://openreview.net/forum?id=VFs1vbQnYN)
+  + Zihan Wang, Xiangyang Li, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. CoRL 2024.
++ [Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer](https://openreview.net/forum?id=1jc2zA5Z6J)
+  + Tyler Ga Wei Lum, Albert H. Li, Preston Culbertson, Krishnan Srinivasan, Aaron Ames, Mac Schwager, Jeannette Bohg. CoRL 2024.
++ [Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection](https://openreview.net/forum?id=uJBMZ6S02T)
+  + Jia-Feng Cai, Zibo Chen, Xiao-Ming Wu, Jian-Jian Jiang, Yi-Lin Wei, Wei-Shi Zheng. CoRL 2024.
 + [Beyond pick-and-place: Tackling robotic stacking of diverse shapes](https://openreview.net/forum?id=U0Q8CrtBJxJ)
   + Alex X. Lee, Coline Manon Devin, Yuxiang Zhou, Thomas Lampe, Konstantinos Bousmalis, Jost Tobias Springenberg, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, Raia Hadsell, Francesco Nori. CoRL 2021.
 + [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://ml4ad.github.io/files/papers2022/A%20Versatile%20and%20Efficient%20Reinforcement%20Learning%20Approach%20for%20Autonomous%20Driving.pdf)
@@ -40,6 +46,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Viewpoint Policy Transfer
 **Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.
 
++ [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://openreview.net/forum?id=jart4nhCQr)
+  + Zhecheng Yuan, Tianming Wei, Shuiqi Cheng, Gu Zhang, Yuanpei Chen, Huazhe Xu. CoRL 2024.
 + [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper_files/paper/2019/hash/8a146f1a3da4700cbf03cdc55e2daae6-Abstract.html)
   + Pratyusha Sharma, Deepak Pathak, Abhinav Gupta. NeurIPS 2019.
 + [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://m.roboticsproceedings.org/rss14/p02.pdf)
@@ -56,6 +64,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://openreview.net/forum?id=8Yu0TNJNGK)
+  + Max Yang, chenghua lu, Alex Church, Yijiong Lin, Christopher J. Ford, Haoran Li, Efi Psomopoulou, David A.W. Barton, Nathan F. Lepora. CoRL 2024.
 + [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
   + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. DMLR@ICLR 2024.
 + [AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer](https://irom-lab.github.io/AdaptSim/)
@@ -116,6 +126,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Morphology Policy Transfer
 **Morphology gaps** arise when target embodiments exhibit different morphological designs compared to the source domain agents, e.g., variations in joint types, module shapes, and lengths, which may ultimately lead to a dynamics mismatch. **Morphology gaps** may also encompass variations in the dimensions and semantic meanings of state and action spaces, such as the number of observational sensors, limbs, and end effectors.
 
++ [Body Transformer: Leveraging Robot Embodiment for Policy Learning](https://openreview.net/forum?id=Oce2215aJE)
+  + Carmelo Sferrazza, Dun-Ming Huang, Fangchen Liu, Jongmin Lee, Pieter Abbeel. CoRL 2024.
++ [One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion](https://openreview.net/forum?id=PbQOZntuXO)
+  + Nico Bohlinger, Grzegorz Czechmanowski, Maciej Piotr Krupka, Piotr Kicki, Krzysztof Walas, Jan Peters, Davide Tateo. CoRL 2024.
 + [Cross Domain Policy Transfer with Effect Cycle-Consistency](https://arxiv.org/pdf/2403.02018.pdf)
   + Ruiqi Zhu, Tianhong Dai, Oya Celiktutan. ICRA 2024.
 + [Polybot: Training One Policy Across Robots While Embracing Variability](https://proceedings.mlr.press/v229/yang23c.html)
@@ -147,12 +161,28 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
 
++ [EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data](https://openreview.net/forum?id=uEbJXWobif)
+  + Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Biyik, Joseph J Lim, Yao Liu, Rasool Fakoor. CoRL 2024.
++ [TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach](https://openreview.net/forum?id=Si2krRESZb)
+  + Weikun Peng, Jun Lv, Yuwei Zeng, Haonan Chen, Siheng Zhao, Jichen Sun, Cewu Lu, Lin Shao. CoRL 2024.
++ [Evaluating Real-World Robot Manipulation Policies in Simulation](https://openreview.net/forum?id=LZh48DTg71)
+  + Xuanlin Li, Kyle Hsu, Jiayuan Gu, Oier Mees, Karl Pertsch, Homer Rich Walke, Chuyuan Fu, Ishikaa Lunawat, Isabel Sieh, Sean Kirmani, Sergey Levine, Jiajun Wu, Chelsea Finn, Hao Su, Quan Vuong, Ted Xiao. CoRL 2024.
++ [TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction](https://openreview.net/forum?id=lpjPft4RQT)
+  + Yunfan Jiang, Chen Wang, Ruohan Zhang, Jiajun Wu, Li Fei-Fei. CoRL 2024.
++ [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://openreview.net/forum?id=AuJnXGq3AL)
+  + Ria Doshi, Homer Rich Walke, Oier Mees, Sudeep Dasari, Sergey Levine. CoRL 2024.
++ [Flow as the Cross-domain Manipulation Interface](https://openreview.net/forum?id=cNI0ZkK1yC)
+  + Mengda Xu, Zhenjia Xu, Yinghao Xu, Cheng Chi, Gordon Wetzstein, Manuela Veloso, Shuran Song. CoRL 2024.
++ [Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective](https://openreview.net/forum?id=Bq4XOaU4sV)
+  + Haoran He, Peilin Wu, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang. CoRL 2024.
++ [SHADOW: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer](https://openreview.net/forum?id=MyyZZAPgpy)
+  + Marion Lepert, Ria Doshi, Jeannette Bohg. CoRL 2024.
 + [Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting](https://robot-mirage.github.io/)
   + Lawrence Yunliang Chen, Kush Hari, Karthik Dharmarajan, Chenfeng Xu, Quan Vuong, Ken Goldberg. RSS 2024.
 + [Pushing the limits of cross-embodiment learning for manipulation and navigation](http://extreme-cross-embodiment.github.io/)
   + Jonathan Yang, Catherine Glossop, Arjun Bhorkar, Dhruv Shah, Quan Vuong, Chelsea Finn, Dorsa Sadigh, Sergey Levine. RSS 2024.
 
-# In Progress
+# In Progress (Updated CoRL 2024!)
 
 ## Citations
 If the insights, categorizations, analyses and encapsulations in this survey paper/github collection are helpful with your project development, please cite the following paper:

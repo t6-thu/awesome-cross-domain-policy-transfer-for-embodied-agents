@@ -66,6 +66,16 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 
 + [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://openreview.net/forum?id=8Yu0TNJNGK)
   + Max Yang, chenghua lu, Alex Church, Yijiong Lin, Christopher J. Ford, Haoran Li, Efi Psomopoulou, David A.W. Barton, Nathan F. Lepora. CoRL 2024.
++ [A Conservative Approach for Few-Shot Transfer in Off-Dynamics Reinforcement Learning](https://hal.science/hal-04574316/)
+  + Paul Daoudi, Bogdan Robu, Christophe Prieur, Merwan Barlier, Ludovic Dos Santos. IJCAI 2024.
++ [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/abs/2405.15369)
+  + Jiafei Lyu, Chenjia Bai, Jingwen Yang, Zongqing Lu, Xiu Li. ICML 2024.
++ [Contrastive Representation for Data Filtering in Cross-Domain Offline Reinforcement Learning](https://arxiv.org/abs/2405.06192)
+  + Xiaoyu Wen, Chenjia Bai, Kang Xu, Xudong Yu, Yang Zhang, Xuelong Li, Zhen Wang. ICML 2024.
++ [OMPO: A Unified Framework for RL under Policy and Dynamics Shifts](https://arxiv.org/abs/2405.19080)
+  + Yu Luo, Tianying Ji, Fuchun Sun, Jianwei Zhang, Huazhe Xu, Xianyuan Zhan. ICML 2024.
++ [Improving Offline Reinforcement Learning with Inaccurate Simulators](https://arxiv.org/abs/2405.04307)
+  + Yiwen Hou, Haoyuan Sun, Jinming Ma, Feng Wu. ICRA 2024.
 + [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
   + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. DMLR@ICLR 2024.
 + [AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer](https://irom-lab.github.io/AdaptSim/)

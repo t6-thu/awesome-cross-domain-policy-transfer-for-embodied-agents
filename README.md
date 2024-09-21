@@ -187,6 +187,8 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
   + Haoran He, Peilin Wu, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang. CoRL 2024.
 + [SHADOW: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer](https://openreview.net/forum?id=MyyZZAPgpy)
   + Marion Lepert, Ria Doshi, Jeannette Bohg. CoRL 2024.
++ [Any-point Trajectory Modeling for Policy Learning](https://xingyu-lin.github.io/atm/)
+  + Chuan Wen, Xingyu Lin, John So, Kai Chen, Qi Dou, Yang Gao, Pieter Abbeel. RSS 2024.
 + [Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting](https://robot-mirage.github.io/)
   + Lawrence Yunliang Chen, Kush Hari, Karthik Dharmarajan, Chenfeng Xu, Quan Vuong, Ken Goldberg. RSS 2024.
 + [Pushing the limits of cross-embodiment learning for manipulation and navigation](http://extreme-cross-embodiment.github.io/)

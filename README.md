@@ -199,14 +199,28 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
   + Octo Model Team. RSS 2024.
 + [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
   + Open X-Embodiment Collaboration. ICRA 2024.
++ [XSkill: Cross Embodiment Skill Discovery](https://xskill.cs.columbia.edu/)
+  + Mengda Xu, Zhenjia Xu, Cheng Chi, Manuela Veloso, Shuran Song. CoRL 2023.
 + [Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents](https://openreview.net/forum?id=Ny3GcHLyzj)
   + Wonje Choi, Woo Kyung Kim, SeungHyun Kim, Honguk Woo. NeurIPS 2023.
 + [LIV: Language-Image Representations and Rewards for Robotic Control](https://penn-pal-lab.github.io/LIV/)
   + Jason Ma, Vikash Kumar, Amy Zhang, Osbert Bastani, Dinesh Jayaraman. ICML 2023.
 + [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
   + Jason Ma, Shagun Sodhani, Dinesh Jayaraman, Osbert Bastani, Vikash Kumar, Amy Zhang. ICLR 2023.
++ [Cross-Domain Transfer via Semantic Skill Imitation](https://kpertsch.github.io/star/)
+  + Karl Pertsch, Ruta Desai, Vikash Kumar, Franziska Meier, Joseph J. Lim, Dhruv Batra, Akshara Rai. CoRL 2022.
++ [Learn what matters: cross-domain imitation learning with task-relevant embeddings](https://arxiv.org/abs/2209.12093)
+  + Tim Franzmeyer, Philip H. S. Torr, João F. Henriques. NeurIPS 2022.
++ [XIRL: Cross-embodiment Inverse Reinforcement Learning](https://x-irl.github.io/)
+  + Kevin Zakka, Andy Zeng, Pete Florence, Jonathan Tompson, Jeannette Bohg, Debidatta Dwibedi. CoRL 2021.
++ [Cross-domain Imitation from Observations](https://arxiv.org/pdf/2105.10037)
+  + Dripta S. Raychaudhuri, Sujoy Paul, Jeroen van Baar, Amit K. Roy-Chowdhury. ICML 2021.
++ [Domain Adaptive Imitation Learning](https://arxiv.org/abs/1910.00105)
+  + Kuno Kim, Yihong Gu, Jiaming Song, Shengjia Zhao, Stefano Ermon. ICML 2020.
++ [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://sites.google.com/view/cycledynamics)
+  + Qiang Zhang, Tete Xiao, Alexei A Efros, Lerrel Pinto, Xiaolong Wang. ICLR 2020.
 
-# In Progress (Updated CoRL 2024!)
+# Progress: Updated CoRL 2024!
 
 ## Citations
 If the insights, categorizations, analyses and encapsulations in this survey paper/github collection are helpful with your project development, please cite the following paper:

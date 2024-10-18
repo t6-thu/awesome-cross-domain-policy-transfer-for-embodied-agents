@@ -173,6 +173,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
 
++ [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://liruiw.github.io/hpt/)
+  + Lirui Wang, Xinlei Chen, Jialiang Zhao, Kaiming He. NeurIPS 2024.
 + [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
   + Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn. CoRL 2024.
 + [EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data](https://openreview.net/forum?id=uEbJXWobif)

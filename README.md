@@ -195,6 +195,16 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
   + Lawrence Yunliang Chen, Kush Hari, Karthik Dharmarajan, Chenfeng Xu, Quan Vuong, Ken Goldberg. RSS 2024.
 + [Pushing the limits of cross-embodiment learning for manipulation and navigation](http://extreme-cross-embodiment.github.io/)
   + Jonathan Yang, Catherine Glossop, Arjun Bhorkar, Dhruv Shah, Quan Vuong, Chelsea Finn, Dorsa Sadigh, Sergey Levine. RSS 2024.
++ [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
+  + Octo Model Team. RSS 2024.
++ [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
+  + Open X-Embodiment Collaboration. ICRA 2024.
++ [Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents](https://openreview.net/forum?id=Ny3GcHLyzj)
+  + Wonje Choi, Woo Kyung Kim, SeungHyun Kim, Honguk Woo. NeurIPS 2023.
++ [LIV: Language-Image Representations and Rewards for Robotic Control](https://penn-pal-lab.github.io/LIV/)
+  + Jason Ma, Vikash Kumar, Amy Zhang, Osbert Bastani, Dinesh Jayaraman. ICML 2023.
++ [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
+  + Jason Ma, Shagun Sodhani, Dinesh Jayaraman, Osbert Bastani, Vikash Kumar, Amy Zhang. ICLR 2023.
 
 # In Progress (Updated CoRL 2024!)
 

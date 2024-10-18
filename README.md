@@ -78,6 +78,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
   + Yiwen Hou, Haoyuan Sun, Jinming Ma, Feng Wu. ICRA 2024.
 + [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
   + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. DMLR@ICLR 2024.
++ [What Went Wrong? Closing the Sim-to-Real Gap via Differentiable Causal Discovery](https://sites.google.com/view/sim2real-compass)
+  + Peide Huang, Xilun Zhang, Ziang Cao, Shiqi Liu, Mengdi Xu, Wenhao Ding, Jonathan Francis, Bingqing Chen, Ding Zhao. CoRL 2023.
 + [AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer](https://irom-lab.github.io/AdaptSim/)
   + Allen Z. Ren, Hongkai Dai, Benjamin Burchfiel, Anirudha Majumdar. CoRL 2023.
 + [Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States](https://proceedings.mlr.press/v229/wang23e.html)

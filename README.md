@@ -46,6 +46,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Viewpoint Policy Transfer
 **Viewpoint gaps** arise when the configuration of sensor setups (e.g., camera position and angles, etc.) can significantly influence the downstream policy learning of embodied agents.
 
++ [UniDrive: Towards Universal Driving Perception Across Camera Configurations](https://wzzheng.net/UniDrive/)
+  + Ye Li, Wenzhao Zheng, Xiaonan Huang, Kurt Keutzer.
 + [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://openreview.net/forum?id=jart4nhCQr)
   + Zhecheng Yuan, Tianming Wei, Shuiqi Cheng, Gu Zhang, Yuanpei Chen, Huazhe Xu. CoRL 2024.
 + [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper_files/paper/2019/hash/8a146f1a3da4700cbf03cdc55e2daae6-Abstract.html)

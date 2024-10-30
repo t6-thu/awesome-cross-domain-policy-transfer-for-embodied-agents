@@ -175,6 +175,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Multi-Gap Policy Transfer
 In many complex tasks, we might simultaneously encounter multiple types of domain gaps due to substantially different embodiments and deployed environments. 
 
++ [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://t6-thu.github.io/xTED/)
+  + Haoyi Niu, Qimao Chen, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu, Xianyuan Zhan. NeurIPS 2024 Workshop on Open-World Agents.
 + [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://liruiw.github.io/hpt/)
   + Lirui Wang, Xinlei Chen, Jialiang Zhao, Kaiming He. NeurIPS 2024.
 + [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)

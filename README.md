@@ -229,6 +229,8 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
 ## Existing Benchmarks
 + [ODRL: A Benchmark for Off-Dynamics Reinforcement Learning](https://github.com/OffDynamicsRL/off-dynamics-rl)
   + Jiafei Lyu, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. NeurIPS 2024 Dataset and Benchmark Track.
++ [Evaluating Real-World Robot Manipulation Policies in Simulation](https://openreview.net/forum?id=LZh48DTg71)
+  + Xuanlin Li, Kyle Hsu, Jiayuan Gu, Oier Mees, Karl Pertsch, Homer Rich Walke, Chuyuan Fu, Ishikaa Lunawat, Isabel Sieh, Sean Kirmani, Sergey Levine, Jiajun Wu, Chelsea Finn, Hao Su, Quan Vuong, Ted Xiao. CoRL 2024.
 
 # Progress: Updated CoRL 2024!
 

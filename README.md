@@ -226,6 +226,10 @@ In many complex tasks, we might simultaneously encounter multiple types of domai
 + [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://sites.google.com/view/cycledynamics)
   + Qiang Zhang, Tete Xiao, Alexei A Efros, Lerrel Pinto, Xiaolong Wang. ICLR 2020.
 
+## Existing Benchmarks
++ [ODRL: A Benchmark for Off-Dynamics Reinforcement Learning](https://github.com/OffDynamicsRL/off-dynamics-rl)
+  + Jiafei Lyu, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. NeurIPS 2024 Dataset and Benchmark Track.
+
 # Progress: Updated CoRL 2024!
 
 ## Citations

@@ -66,6 +66,10 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
+  + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. ICRA 2025.
++ [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl)
+  + Jiafei Lyu, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jing-Wen Yang, Zongqing Lu, Xiu Li. ICLR 2025.
 + [Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning](https://weirdlabuw.github.io/sgft/)
   + Patrick Yin, Tyler Westenbroek, Simran Bagaria, Kevin Huang, Ching-an Cheng, Andrey Kobolov, Abhishek Gupta. ICLR 2025.
 + [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://openreview.net/forum?id=8Yu0TNJNGK)
@@ -80,8 +84,6 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
   + Yu Luo, Tianying Ji, Fuchun Sun, Jianwei Zhang, Huazhe Xu, Xianyuan Zhan. ICML 2024.
 + [Improving Offline Reinforcement Learning with Inaccurate Simulators](https://arxiv.org/abs/2405.04307)
   + Yiwen Hou, Haoyuan Sun, Jinming Ma, Feng Wu. ICRA 2024.
-+ [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716)
-  + Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu, Xianyuan Zhan. DMLR@ICLR 2024.
 + [What Went Wrong? Closing the Sim-to-Real Gap via Differentiable Causal Discovery](https://sites.google.com/view/sim2real-compass)
   + Peide Huang, Xilun Zhang, Ziang Cao, Shiqi Liu, Mengdi Xu, Wenhao Ding, Jonathan Francis, Bingqing Chen, Ding Zhao. CoRL 2023.
 + [AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer](https://irom-lab.github.io/AdaptSim/)

@@ -66,6 +66,8 @@ The main architecture of the survey: domain gap taxonomy, overarching insights o
 ### Cross-Dynamics Policy Transfer
 **Dynamics gaps** occur when interactions between embodiments and their deploying environments, or interactions among different parts of the embodiment itself, follow different transitional dynamics, such as stiffness, gear dead zones of embodiments, body mass, and friction.
 
++ [Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning](https://weirdlabuw.github.io/sgft/)
+  + Patrick Yin, Tyler Westenbroek, Simran Bagaria, Kevin Huang, Ching-an Cheng, Andrey Kobolov, Abhishek Gupta. ICLR 2025.
 + [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://openreview.net/forum?id=8Yu0TNJNGK)
   + Max Yang, chenghua lu, Alex Church, Yijiong Lin, Christopher J. Ford, Haoran Li, Efi Psomopoulou, David A.W. Barton, Nathan F. Lepora. CoRL 2024.
 + [A Conservative Approach for Few-Shot Transfer in Off-Dynamics Reinforcement Learning](https://hal.science/hal-04574316/)
